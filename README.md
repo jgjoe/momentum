@@ -37,4 +37,4 @@ HTML5, CSS3, Vanilla JavaScript, Web Storage API, Geolocation API
 
 ## 만든 사람
 
-**Jigwan Joe** — [@crushonyou2](https://github.com/crushonyou2) · jigwan.joe@gmail.com
+**Jigwan Joe** — [@jgjoe](https://github.com/jgjoe) · jigwan.joe@gmail.com

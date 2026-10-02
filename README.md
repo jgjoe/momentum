@@ -30,11 +30,6 @@ HTML5, CSS3, Vanilla JavaScript, Web Storage API, Geolocation API
 
 > 클라이언트 전용 정적 페이지라 키가 브라우저에 노출됩니다. **사용량 제한이 걸린 무료 키만 사용하세요.**
 
-## 범위와 조건
-
-- **JavaScript 학습 프로젝트입니다.** 서버가 없어 데이터는 브라우저에만 저장됩니다.
-- 날씨는 브라우저 위치 권한을 거부하면 표시되지 않습니다.
-
 ## 만든 사람
 
 **Jigwan Joe** — [@jgjoe](https://github.com/jgjoe) · jigwan.joe@gmail.com
